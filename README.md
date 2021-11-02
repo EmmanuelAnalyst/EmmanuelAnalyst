@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @EmmanuelAnalyst
-- 👀 I’m interested in collecting, cleaning and analysing data for businesses. 
-- 🌱 I’m currently learning python,sql, tableau/power bi
+- 👋 Hi, I’m @EmmanuelTheAnalyst
+- 👀 I’m interested in collecting, cleaning and analysing data for business insights. 
 - 💞️ I’m looking to collaborate with other data analyst
 - 📫 How to reach me. Emmanuel.jamer.ej@gmail.com 
 
